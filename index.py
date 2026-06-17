@@ -1,2 +1,1 @@
-print("Chaplain Isreal")
-
+print("Gay Isreal")
